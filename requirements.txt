@@ -1,4 +1,1 @@
-pygame
-sys
-time
-random
+pygame==2.5.2
