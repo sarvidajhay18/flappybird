@@ -81,7 +81,7 @@ screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Flappy Bird")
 
 # setting background and base image
-back_img = pygame.image.load("img_46.png")
+back_img = pygame.image.load("img_51.png")
 floor_img = pygame.image.load("img_50.png")
 floor_x = 0
 
